@@ -1,0 +1,8 @@
+batch_1.csv  
+batch_2.csv  
+batch_3.csv 
+IOT-temp.csv  
+result_from_api.csv  
+result_from_train.csv
+producer.py
+consumer.py
