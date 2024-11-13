@@ -16,12 +16,12 @@
 
 2. Pada api_2, model *ditraining* sebanyak 65070 data 
 
-<img width="543" alt="batch_2" src="https://github.com/user-attachments/assets/d573e4cd-3e1c-459e-a12f-07caaedba72f">
+![batch_2](https://github.com/user-attachments/assets/19f6d4ca-e5df-44b2-8487-e10dc10812b7)
 
 <img width="860" alt="api_2" src="https://github.com/user-attachments/assets/b32bf7e6-bb1b-4051-bb2a-923403eec833">
 
 3. Pada api_3, model *ditraining* sebanyak 32536 data
 
-<img width="587" alt="batch_3" src="https://github.com/user-attachments/assets/d70d70f9-d642-4ab3-852e-4a45718f0a82">
+![batch_3](https://github.com/user-attachments/assets/e2cf7f5c-0d58-43fd-a766-709b69da3249)
 
 <img width="863" alt="api_3" src="https://github.com/user-attachments/assets/84c545db-e026-4469-9830-848a720bc7e1">
