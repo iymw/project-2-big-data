@@ -10,7 +10,7 @@
 
 1. Pada api_1, model *ditraining* sebanyak 97606 data
 
-<img width="503" alt="batch_1" src="https://github.com/user-attachments/assets/e68760ae-9496-441a-aa62-da2a68ed618e">
+![batch_1](images/batch_1.png)
 
 <img width="857" alt="api_1" src="https://github.com/user-attachments/assets/30b91d9c-76e7-46b4-816f-4e77fddd321d">
 
