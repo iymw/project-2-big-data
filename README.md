@@ -10,29 +10,18 @@
 
 1. Pada api_1, model *ditraining* sebanyak 97606 data
 
-<img width="857" alt="api_1" src="https://github.com/user-attachments/assets/30b91d9c-76e7-46b4-816f-4e77fddd321d">
-
-<br />
-<br />
-2. Pada api_2, model *ditraining* sebanyak 65070 data 
-
-<img width="860" alt="api_2" src="https://github.com/user-attachments/assets/b32bf7e6-bb1b-4051-bb2a-923403eec833">
-
-<br />
-<br />
-3. Pada api_3, model *ditraining* sebanyak 32536 data
-
-
-<img width="863" alt="api_3" src="https://github.com/user-attachments/assets/84c545db-e026-4469-9830-848a720bc7e1">
-
-4. Berikut adalah hasil dari batch_1
-
 <img width="503" alt="batch_1" src="https://github.com/user-attachments/assets/e68760ae-9496-441a-aa62-da2a68ed618e">
 
-5. Berikut adalah hasil dari batch_2
+<img width="857" alt="api_1" src="https://github.com/user-attachments/assets/30b91d9c-76e7-46b4-816f-4e77fddd321d">
+
+2. Pada api_2, model *ditraining* sebanyak 65070 data 
 
 <img width="543" alt="batch_2" src="https://github.com/user-attachments/assets/d573e4cd-3e1c-459e-a12f-07caaedba72f">
 
-6. Berikut adalah hasil dari batch_3
+<img width="860" alt="api_2" src="https://github.com/user-attachments/assets/b32bf7e6-bb1b-4051-bb2a-923403eec833">
+
+3. Pada api_3, model *ditraining* sebanyak 32536 data
 
 <img width="587" alt="batch_3" src="https://github.com/user-attachments/assets/d70d70f9-d642-4ab3-852e-4a45718f0a82">
+
+<img width="863" alt="api_3" src="https://github.com/user-attachments/assets/84c545db-e026-4469-9830-848a720bc7e1">
