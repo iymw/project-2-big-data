@@ -8,19 +8,19 @@
 
 ## Dokumentasi Pengerjaan
 
-1. Pada api_1, model *ditraining* sebanyak 97606 data
+1. Pada api_1, model *ditraining* menggunakan 97606 data
 
 ![batch_1](images/batch_1.png)
 
 <img width="857" alt="api_1" src="https://github.com/user-attachments/assets/30b91d9c-76e7-46b4-816f-4e77fddd321d">
 
-2. Pada api_2, model *ditraining* sebanyak 65070 data 
+2. Pada api_2, model *ditraining* menggunakan 65070 data 
 
 ![batch_2](https://github.com/user-attachments/assets/19f6d4ca-e5df-44b2-8487-e10dc10812b7)
 
 <img width="860" alt="api_2" src="https://github.com/user-attachments/assets/b32bf7e6-bb1b-4051-bb2a-923403eec833">
 
-3. Pada api_3, model *ditraining* sebanyak 32536 data
+3. Pada api_3, model *ditraining* menggunakan 32536 data
 
 ![batch_3](https://github.com/user-attachments/assets/e2cf7f5c-0d58-43fd-a766-709b69da3249)
 
